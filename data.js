@@ -25,8 +25,8 @@ window.PORTFOLIO = {
 
   stats: [
     { value: 670, suffix: "K+", label: "records integrated into BigQuery" },
-    { value: 400, suffix: "K+", label: "records cleaned and analyzed at Telkomsel" },
-    { value: 45, suffix: "", label: "experiment configurations in my thesis" },
+    { value: 400, suffix: "K+", label: "records cleaned and analyzed" },
+    { value: 45, suffix: "", label: "experiment configurations in Bachelor thesis" },
     { value: 91, suffix: "%", label: "precision in credit card fraud detection" }
   ],
 
